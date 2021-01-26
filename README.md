@@ -1,3 +1,4 @@
+# 
 # Dell-Inspiron-15-7559 OPENCORE 0.6.5
 # windows10 and Big Sur dual booting OK
 # Most of them work well

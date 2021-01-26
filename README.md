@@ -1,5 +1,3 @@
-# https://github.com/worship76/dell7559_Hackintosh_BigSur
-# It's based on the data from Worship76. Thank you for sharing.
 # Dell-Inspiron-15-7559 OPENCORE 0.6.5  
 # windows10 and Big Sur dual booting OK
 # Most of them work well
